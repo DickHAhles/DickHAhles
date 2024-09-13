@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DickHAhles
 - 👀 I’m interested in semantic networking and image indexing
 - 🌱 I’m currently learning political philosophy
-- 💞️ I’m looking to collaborate on building software for semantic networdking
+- 💞️ I’m looking to collaborate on building software for semantic networking
 - 📫 How to reach me dirkhenderikahles@proton.me
 - 😄 Pronouns: Dicky
 - ⚡ Fun fact: 8
